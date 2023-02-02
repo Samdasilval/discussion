@@ -1,0 +1,23 @@
+{
+  "name": "14-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "browserslist": "> 0.25%, not dead",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samdasilval/discussion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samdasilval/discussion/issues"
+  },
+  "homepage": "https://github.com/Samdasilval/discussion#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
